@@ -1,0 +1,39 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Sheth;Arpi;; ;
+FN: Arpi Sheth
+ORG:Hello Goodies 
+COMPANY:Hello Goodies 
+TITLE:Owner
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Gilles Plains;Adelaide;SA;5086;Australia
+TEL;TYPE=Work,pref:+61433444732
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:+61433444732
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:hellogoodies28@gmail.com
+URL;TYPE=Digital Business Card:https://card.hellogoodies.com.au
+
+
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100326413
+URL;TYPE=Website:
+
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:https://wa.me/61433444732
+URL;TYPE=WeChat:
+
+URL;TYPE=Facebook:https://www.facebook.com/hellogoodies28
+URL;TYPE=Instagram:https://www.instagram.com/hellogoodies28
+
+PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAABjElEQVR42u3VUUdDYRzH8V7Ld8eyNJtSuihNkVJKKaKIMSWiuiklTqKJmbFzE7uItN3EZimy2YjtZtNsFtM87yVrZztHN+cc2d3zu3nO7+H5nOP5X5wh8c8MSUACEpCABAYNNEeImWrhZH5U8c4FtbpdIA6LRlMV9MzaBZbwkOuVCMxE0/lMPOS7sgnkGTvmVC9tP2ut7mOraRM4Zf8Zn36qAE8OL7HlIykmSHTbG2QdAgnG2+KczW6rQsQhsMGZEEVcpd6N+nOOgJKL4u85/c4zCsMXFQfAJcudJcakvpEaA2XnsW0TaE8S76yNYVL6Vu3cB0zF7AFJPN1xB9kzBpPYBFZqdoBd+nF/CiP5LVi3AVQVjNwJc44gaw3cMl3QEyIgzKm5CFsDM9wIPa/wIszxoloCaVzlfglw+OcLNEsgxIZRwox8iep3r+7jrlgBDQ/3RqsoaEL1BrXsR/ldWwJVWAHRzjuNbLMiVGOq18ISWODAXB+gWI/tBbxut3/1qiR/LBKQgAQkMGDgBxmjOL936ZcpAAAAAElFTkSuQmCC
+NOTE;CHARSET=UTF-8:We create thoughtfully curated gift hampers and boxes for all ages and every occasion. From festive celebrations to personal milestones, our hampers are designed to add a special touch. We also specialise in customised creations, corporate gifting, property settlement or handover hampers, and unique return gifts that leave a lasting impression.
+
+END:VCARD
