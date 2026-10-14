@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Sheth;Arpi;;;
+FN;CHARSET=UTF-8:Arpi Sheth
+ORG;CHARSET=UTF-8:Hello Goodies
+TITLE;CHARSET=UTF-8:Owner and Event Organiser
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Gilles Plains;Adelaide;SA;5086;Australia
+TEL;TYPE=CELL,VOICE,PREF:+61433444732
+EMAIL;TYPE=INTERNET:hellogoodies28@gmail.com
+URL;TYPE=Digital Business Card:https://card.hellogoodies.com.au
+URL;TYPE=Diwali Exhibition Sale:https://diwaliexhibitionsale.com.au
+URL;TYPE=WhatsApp:https://wa.me/61433444732
+URL;TYPE=Facebook:https://www.facebook.com/hellogoodies28
+URL;TYPE=Instagram:https://www.instagram.com/hellogoodies28
+NOTE;CHARSET=UTF-8:Hello Goodies - a box of happiness. Thoughtfully curated gift hampers and boxes for all ages and every occasion\, including customised creations\, corporate gifting\, property settlement or handover hampers and return gifts. Organiser of the Diwali Exhibition Sale.
+END:VCARD
